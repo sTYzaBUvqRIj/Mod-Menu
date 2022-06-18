@@ -1,3 +1,5 @@
-<font color='#00FF00'>Mod menu V2 changelogs:</font><br>
-- More lua API<br>
-- ImGui keyboard<br>
+<font color='#00FF00'>Mod menu for 3.93 changelogs:</font><br>
+- Support growtopia 3.93<br>
+- Lua: Added ImGui, HTTP Request API<br>
+- Minor Bug Fixed<br>
+- Added /growscan<br>
