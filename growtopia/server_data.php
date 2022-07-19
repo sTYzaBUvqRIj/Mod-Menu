@@ -1,4 +1,4 @@
-server|127.0.0.1
+server|23.99.206.21
 port|17091
 type|1
 #maint|Under maintenance
